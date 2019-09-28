@@ -5,8 +5,10 @@ Hi there! I’m Chor Wei, and I’d like to apply for the position of a digial l
 I’m interested and adept at working with technology and python programming and I know my way around design, and even my previously atrocious illustration and art skills have improved after taking IGCSE. I know and can work well with some members of the Digital Leaders team as I am good friends with some of them and can communicate and collaborate effectively with people in general. I my natrually diplomatic disposition means that I can also resolve conflicts well.
 
 ### Why I want to become a Digital Leader
+By joining the Digital Leaders, I seek to enhance my presentation and public speaking skills, be more involved with the school and understand more about its running and decison making, bolster my (admittedly lackluster) social experience and social skills, learn how to effectively communitcate, manage, apply technology to my learning, and lead, and contribute in our school's development along the way.
 
 ### Items of note
+- Became a full member of the Hong Kong Academy for Gifted Education in 2018
 - Taking IGCSE Graphics
 - Taking IGCSE Computer Science
 - Created this website
