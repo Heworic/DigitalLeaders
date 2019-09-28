@@ -1,4 +1,10 @@
 ## Welcome to GitHub Pages
+## This is some test text
+
+- this is a test point
+- This is a capitalized text point
+
+this is a [link](https://wisdom.wis.edu.hk/login/index.php)
 
 You can use the [editor on GitHub](https://github.com/Heworic/DigitalLeaders/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
